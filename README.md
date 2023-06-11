@@ -2,6 +2,10 @@
 
 For this challenge, the task was to compose code for the Belly Button Challenge, an interactive web visualization project using D3 and Plotly to create an interactive dashboard. The visualizations are based on the dataset provided by the bootcamp in the samples.json file. Starter HTML was utilizied in the index.html file.
 
+
+Live dashboard located at : [Click here for dashboard](https://b-aldridge.github.io/bellybuttonchallenge/)
+
+
 ## Description
 
 The web visualization dashboard shows:
