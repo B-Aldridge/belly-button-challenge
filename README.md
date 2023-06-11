@@ -13,7 +13,7 @@ The web visualization dashboard shows:
 - A bar chart showing the top 10 OTU IDs and their corresponding sample values.
 - A bubble chart displaying the relationship between OTU IDs and sample values.
 - A gauge chart representing the weekly washing frequency. Adapted the gauge chart from https://plotly.com/javascript/gauge-charts/#custom-gauge-chart. 
-- Demographic information for each test subject when selected
+- Demographic information for each test subject when selected.
 
 The visualizations are dynamically updated based on user selection from the Test Subject ID No. dropdown menu.
 
